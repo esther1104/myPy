@@ -37,3 +37,13 @@ git commit -m "first commit"
 git remote add origin https://github.com/esther1104/myPy.git
 git push -u origin master
 
+---------------------------------------------
+콘솔에서 C:\Users\esther\Desktop\myPy
+로 이동
+
+git add .
+git commit -m "fix codes"
+git push
+
+
+
