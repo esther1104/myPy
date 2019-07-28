@@ -28,6 +28,7 @@ git config --global user.name "esther Kim"
 git config --global user.email esther4185@gmail.com
 
 ---------------------------------------
+저장소에서 처음 만들었을때만 아래와 같이 실행
 콘솔에서 C:\Users\esther\Desktop\myPy
 디렉토리로 이동한 후 아래와 같이 명령을 실행한다.
 
@@ -38,6 +39,7 @@ git remote add origin https://github.com/esther1104/myPy.git
 git push -u origin master
 
 ---------------------------------------------
+myPy디렉토리의 내용이 변경되었을 때 실행
 콘솔에서 C:\Users\esther\Desktop\myPy
 로 이동
 
