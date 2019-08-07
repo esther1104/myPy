@@ -29,7 +29,7 @@ for x in range(5):
 
     if eval(q)==r:
         print("정답!")
-        sc1=sc2+1
+        sc1=sc1+1
     else:
         print("오답!")
         sc2=sc2+1
